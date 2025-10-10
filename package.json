@@ -5,7 +5,7 @@
   "type": "module",
   "dependencies": {
     "connected-react-router": "^6.9.3",
-    "framer-motion": "^10.12.13",
+    "framer-motion": "^10.18.0",
     "history": "^4.10.1",
     "i18next": "^22.5.0",
     "i18next-browser-languagedetector": "^7.0.1",
